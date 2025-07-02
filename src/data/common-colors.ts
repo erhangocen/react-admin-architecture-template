@@ -1,0 +1,18 @@
+export const CommonColors = {
+  Zaffre: '#0106B1',
+  Blue: '#0158FF',
+  MayaBlue: '#66CCFA',
+  CornflowerBlue: '#6889EF',
+  PaleLavender: '#D5DBFE',
+  BlueViolet: '#8539FF',
+  FreshAir: '#A5E3FC',
+  DarkTangerine: '#FCAA0B',
+  RipeMango: '#FECD21',
+  CaribbeanGreen: '#05CD99',
+  PinkFlamingo: '#F878FA',
+  DeepMagenta: '#D203CE',
+  HeliotropeMagenta: '#AD00A2',
+  Error: '#FF0000',
+  Success: '#00FF00',
+  Ghost: '#C0C0C0',
+}
